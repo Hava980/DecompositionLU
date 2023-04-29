@@ -1,4 +1,3 @@
-# Hava Haviv 211737440
 import numpy as np
 
 
